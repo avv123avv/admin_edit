@@ -18,3 +18,5 @@
 7. To login use:
   login: admin
   password: admin
+  
+Attention: server rendering doesn't serve styles for the UI - that's why you will see UI at the first mount without styles.  
