@@ -13,7 +13,8 @@
 2. Run 'npm i'
 3. Run 'npm run build'
 4. Run 'npm run nodemon'
-5. Go to the 'http://localhost:3005/' at the browser
-6. To login use:
+5. In another tab run "npm run webpack-devserver"
+6. Go to the 'http://localhost:3005/' at the browser
+7. To login use:
   login: admin
   password: admin
